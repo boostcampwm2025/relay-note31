@@ -308,14 +308,16 @@ showGrowthStats();
 
 <img width="855" height="717" alt="Image" src="https://github.com/user-attachments/assets/686eb1e6-d29a-4c0e-ab5a-80f08258b5f6" />
 
-<<<<<<< HEAD
-K026
 
-https://www.notion.so/1-23425d524d6b80d3b9c7e4894d925f95
+
+
+
 
 ---
 
 ## **캠프토닥이** - K026
+
+https://www.notion.so/1-23425d524d6b80d3b9c7e4894d925f95
 
 - **배경:**
   부스트캠프는 매일 몰입하며 성장하는 프로그램이지만 장기적으로 지치거나 심리적인 거리감을 느낄 수 있다. 때로는 온라인으로만 만나게 되는 캠퍼들에게는 사소한 응원의 한마디가 큰 힘이 되기도 한다. 매일 같은 시간, 격려 메시지를 자동으로 보내주는 봇이 있다면 전체적인 분위기와 에너지를 유지하는데 도움이 되지 않을까?
@@ -330,7 +332,7 @@ https://www.notion.so/1-23425d524d6b80d3b9c7e4894d925f95
 
 1. slack 앱 생성
 
-![image.png](attachment:cc5dfd23-9a7c-4853-ad48-cdfa8939d7a0:image.png)
+![imange](https://www.notion.so/image/attachment%3Acc5dfd23-9a7c-4853-ad48-cdfa8939d7a0%3Aimage.png?table=block&id=23425d52-4d6b-8060-a8e5-ee4a92aa9841&spaceId=6765361a-e3e8-40ea-984f-15f73bcd4f24&width=2000&userId=ee9b46a1-6a87-4f0d-b5c1-4427b9164869&cache=v2)
 
 https://api.slack.com/apps
 
