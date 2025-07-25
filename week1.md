@@ -317,6 +317,7 @@ showGrowthStats();
 
 ## **캠프토닥이** - K026
 
+이미지가 깨져서 노션 링크 첨부 했습니다.
 https://www.notion.so/1-23425d524d6b80d3b9c7e4894d925f95
 
 - **배경:**
@@ -332,7 +333,7 @@ https://www.notion.so/1-23425d524d6b80d3b9c7e4894d925f95
 
 1. slack 앱 생성
 
-![imange](https://www.notion.so/image/attachment%3Acc5dfd23-9a7c-4853-ad48-cdfa8939d7a0%3Aimage.png?table=block&id=23425d52-4d6b-8060-a8e5-ee4a92aa9841&spaceId=6765361a-e3e8-40ea-984f-15f73bcd4f24&width=2000&userId=ee9b46a1-6a87-4f0d-b5c1-4427b9164869&cache=v2)
+
 
 https://api.slack.com/apps
 
@@ -340,15 +341,12 @@ https://api.slack.com/apps
 
 **App Name 에 “캠프 토닥이” 입**
 
-![image.png](attachment:fbcd0915-7196-4da0-8d12-f9115ee0edc4:image.png)
 
 1. Features > App Home > **App Display Name `Edit`** 클릭
 
-![image.png](attachment:354076e6-d87b-4003-9b16-252704c3842c:image.png)
 
 1. Features > OAuth & Permissions > Scope
 
-![image.png](attachment:9ca03b36-5b8d-48bd-af8a-24d4f2572abd:image.png)
 
 ```jsx
 npm install @slack/bolt
@@ -374,7 +372,6 @@ SLACK_SIGNING_SECRET=...
 
 - **Command**: `/토닥`
 
-![image.png](attachment:62fa96b5-eea2-4788-b8fc-2b9442851694:image.png)
 
 ```javascript
 require("dotenv").config();
