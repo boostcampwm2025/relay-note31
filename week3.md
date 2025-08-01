@@ -148,7 +148,7 @@ Suno AI를 이용해 만든 노래입니다!
 
 페이커의 ‘쉿’ 포즈를 따라해서 만든 AI 네컷 사진입니다.
 
-<img width="1024" height="1536" alt="image 5" src="https://github.com/user-attachments/assets/9d78c263-fa83-4d3d-892f-d040ec40ef6b" />
+<img width="150" alt="image 5" src="https://github.com/user-attachments/assets/9d78c263-fa83-4d3d-892f-d040ec40ef6b" />
 
 ### ✅ 결론
 
@@ -247,9 +247,8 @@ Suno AI를 이용해 만든 노래입니다!
 
 **포즈**✌🏻 **제안 예시**
 
-<img width="736" height="736" alt="image 3" src="https://github.com/user-attachments/assets/863e81a6-9308-4d97-a029-755e4dd2bd5a" />
-
-<img width="800" height="796" alt="image 6" src="https://github.com/user-attachments/assets/ee1c73ee-118a-4af9-9f70-69c096abd4c7" />
+<img width="300" height="300" alt="image 3" src="https://github.com/user-attachments/assets/863e81a6-9308-4d97-a029-755e4dd2bd5a" />
+<img width="300" height="300" alt="image 6" src="https://github.com/user-attachments/assets/ee1c73ee-118a-4af9-9f70-69c096abd4c7" />
 
 **미션 완료 조건 (아래 조건 중 1가지 선택)**
 
