@@ -4,7 +4,8 @@
 
 마지막 주차를 맞아, **AI를 활용해 콘텐츠를 만들고 팀원들과 소소한 즐거움과 따뜻함을 나누는 시간**을 가져보려 합니다.
 
-프로젝트 속에서 **작은 추억과 감정의 연결을 만들어가는 것**이 이번 실험의 목적입니다.
+프로젝트 속에서 **작은 추억과 감정의 연결을 만들어가는 것**이 이번 실험의 목적입니다.<br><br>
+
 
 ## 💬  팀 내 토론 내용
 
@@ -61,7 +62,7 @@
     
     단순히 그림을 만드는 것이 아니라 **감정과 기억을 함께 기록하는 소중한 시간**이라는 인식을 공유했습니다.
     
-
+<br><br>
 ---
 
 # 📖 조사
@@ -144,9 +145,10 @@ Suno AI를 이용해 만든 노래입니다!
 
 ### 📝 실제 사례
 
+
 페이커의 ‘쉿’ 포즈를 따라해서 만든 AI 네컷 사진입니다.
 
-![image.png](image%205.png)
+<img width="1024" height="1536" alt="image 5" src="https://github.com/user-attachments/assets/9d78c263-fa83-4d3d-892f-d040ec40ef6b" />
 
 ### ✅ 결론
 
@@ -245,9 +247,9 @@ Suno AI를 이용해 만든 노래입니다!
 
 **포즈**✌🏻 **제안 예시**
 
-![image.png](image%203.png)
+<img width="736" height="736" alt="image 3" src="https://github.com/user-attachments/assets/863e81a6-9308-4d97-a029-755e4dd2bd5a" />
 
-![image.png](image%206.png)
+<img width="800" height="796" alt="image 6" src="https://github.com/user-attachments/assets/ee1c73ee-118a-4af9-9f70-69c096abd4c7" />
 
 **미션 완료 조건 (아래 조건 중 1가지 선택)**
 
