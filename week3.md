@@ -270,3 +270,8 @@ https://boostcampwm10-ch.slack.com/archives/C0956565B4L/p1754018746558909
 "Hi GPT, so let's recreate an image but poorly drawn in MS paint by a child or someone who doesn't draw well at all.”
 
 </aside>
+  
+## 수행할 퀘스트
+
+J287 - 캠퍼토닥이 🏕️   
+선정 이유 : 공감 기반의 피드백은 회복 탄력성을 올려준다는 말을 보고 선정하게 되었다.
