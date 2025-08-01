@@ -187,22 +187,48 @@
 
 ### 사회자봇
 
-<img width="992" height="474" alt="스크린샷 2025-08-01 120435" src="https://github.com/user-attachments/assets/4aef5b0d-1083-421a-8b32-7403a93fdf31" />
-<img width="1010" height="941" alt="스크린샷 2025-08-01 120613" src="https://github.com/user-attachments/assets/d4334284-66d8-4f34-a0a3-b909d11911b2" />
-<img width="710" height="650" alt="스크린샷 2025-08-01 120645" src="https://github.com/user-attachments/assets/5a6be2c2-5af4-4954-91bb-39f9571f7e9e" />
+사회자봇 퀘스트를 수행한 결과를 알아봅니다.
 
+<details>
+<summary> 수행 결과 알아보기 </summary>
+
+<img height="300" alt="스크린샷 2025-08-01 120435" src="https://github.com/user-attachments/assets/4aef5b0d-1083-421a-8b32-7403a93fdf31" />
+<br>
+<img  height="600" alt="스크린샷 2025-08-01 120613" src="https://github.com/user-attachments/assets/d4334284-66d8-4f34-a0a3-b909d11911b2" />
+<br>
+<img height="400" alt="스크린샷 2025-08-01 120645" src="https://github.com/user-attachments/assets/5a6be2c2-5af4-4954-91bb-39f9571f7e9e" />
+<br>
 아이스브레이킹 주제와 특정 상황에서 사용할 수 있는 스몰 토크 주제, 간단한 자기소개 템플릿과 랜덤으로 진행자를 정하는 방법을 사회자봇을 통해 알 수 있었습니다.<br>
 첫 날에는 사회자봇을 정말 요긴하게 사용했고, 날이 지날 수록 입이 트여 제 자신이 사회자봇이 되어감을 느껴 사용 빈도를 조금씩 낮춰갔습니다!
 덕분에 처음 만나는 분들과 허물 없이 편하게 친해지고 이야기할 수 있었다고 생각합니다😁
 
+</details>
+
 ### 캠프토닥이
+
+<details>
+<summary> 수행 결과 알아보기 </summary>
+
+여기에 내용 입력!
+
+</details>
 
 여기에 내용 입력!
 
 ### 포에틱 캠프
 
+<details>
+<summary> 수행 결과 알아보기 </summary>
+
 여기에 내용 입력!
+
+</details>
 
 ### 부캠네컷
 
+<details>
+<summary> 수행 결과 알아보기 </summary>
+
 여기에 내용 입력!
+
+</details>
